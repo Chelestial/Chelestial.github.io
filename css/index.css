@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000008;
-	background-color: #E14E78;
+	color: #0000FE;
+	background-color: #323A2A;
 }
 
 .html
@@ -12,27 +12,34 @@
 #page
 {
 	z-index: 1;
-	width: 960px;
-	min-height: 438px;
+	width: 271px;
+	min-height: 264.54999999999995px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 62px;
 	margin-left: auto;
 	margin-right: auto;
+	padding: 173px 344px 62.450000000000045px 345px;
+}
+
+#u111
+{
+	z-index: 2;
+	width: 271px;
+	background-color: transparent;
+	left: -1px;
+	position: relative;
 }
 
 #pamphletu123
 {
 	z-index: 4;
 	width: 0.01px;
-	height: 321px;
-	padding-bottom: 97px;
+	height: 69px;
+	margin-left: 101px;
+	margin-top: 41px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 117px;
-	left: 20px;
 }
 
 #u134
@@ -41,8 +48,6 @@
 	width: 69px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 252px;
-	left: 426px;
 }
 
 #u135
@@ -104,6 +109,8 @@
 	position: absolute;
 	width: 921px;
 	background-color: transparent;
+	top: -252px;
+	left: -426px;
 }
 
 #u130popup
@@ -140,17 +147,6 @@
 .PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
 {
 	cursor: pointer;
-}
-
-#u111
-{
-	z-index: 2;
-	width: 271px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 173px;
-	left: 345px;
 }
 
 body

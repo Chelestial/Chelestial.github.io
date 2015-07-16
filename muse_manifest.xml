@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="chels.cf" resolutions="1x" timestamp="1437032616938">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="chels.cf" resolutions="1x" timestamp="1437047076065">
   <folder name="css">
-    <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="148983416" ref="index"/>
+    <file name="site_global.css" crc="453856629"/>
+    <file name="index.css" crc="4264704554" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
@@ -18,6 +18,7 @@
     <file name="pesan-buka.png" crc="479763691" ref="index"/>
     <file name="u149-4.png" crc="256933508" ref="index"/>
     <file name="home.png" crc="4263621111" seo="true" ref="index"/>
+    <file name="favicon.ico" crc="3889955424" ref="index"/>
   </folder>
-  <file name="index.html" crc="384518737" seo="true" mt="1437032597010" redirect="true"/>
+  <file name="index.html" crc="4015975880" seo="true" mt="1437047018099" redirect="true"/>
 </manifest>
