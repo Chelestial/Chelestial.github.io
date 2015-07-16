@@ -1,0 +1,37 @@
+#u163-5
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u163-2
+{
+	font-weight: 700;
+}
+
+#u155-4,#u160-4,#u161-4
+{
+	background-color: transparent;
+	line-height: 29px;
+	color: #FFFFFF;
+	font-size: 24px;
+	text-align: center;
+	font-family: droid-sans-mono, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u165-9,#u166-10,#u167-9
+{
+	background-color: transparent;
+	line-height: 19px;
+	color: #FFFFFF;
+	font-size: 16px;
+	font-family: ubuntu-mono, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
