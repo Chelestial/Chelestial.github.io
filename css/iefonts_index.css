@@ -13,6 +13,16 @@
 	font-family: lato-n4, sans-serif;
 }
 
+#pu401.PamphletThumbSelected #u419-4 p,#u419-4
+{
+	font-family: ubuntu-mono-n7, sans-serif;
+}
+
+#u360-4
+{
+	font-family: ubuntu-mono-n7, sans-serif;
+}
+
 #u209-4
 {
 	font-family: quicksand-n4, sans-serif;
@@ -26,16 +36,6 @@
 #u346-4
 {
 	font-family: pt-sans-narrow-n7, sans-serif;
-}
-
-#pu401.PamphletThumbSelected #u419-4 p,#u419-4
-{
-	font-family: ubuntu-mono-n7, sans-serif;
-}
-
-#u360-4
-{
-	font-family: ubuntu-mono-n7, sans-serif;
 }
 
 #u343-4

@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="chels.cf" resolutions="1x" timestamp="1437125986134">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="chels.cf" resolutions="1x" timestamp="1437127565611">
   <folder name="css">
-    <file name="site_global.css" crc="337544222"/>
-    <file name="index.css" crc="3946110162" ref="index"/>
-    <file name="master_a-master.css" crc="122052291" ref="index"/>
-    <file name="iefonts_index.css" crc="4237238382" ref="index"/>
+    <file name="site_global.css" crc="3937859668"/>
+    <file name="index.css" crc="502696452" ref="index"/>
+    <file name="master_a-master.css" crc="3958344443" ref="index"/>
+    <file name="iefonts_index.css" crc="4056528847" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
@@ -28,8 +28,8 @@
     <file name="message-big-3.png" crc="363727211" ref="index"/>
     <file name="closed-ketupat.png" crc="4186526012" ref="index"/>
     <file name="open-ketupat.png" crc="133061761" ref="index"/>
-    <file name="u445.png" crc="321233440" ref="index"/>
-    <file name="u445-r.png" crc="47633941" ref="index"/>
+    <file name="u445.png" crc="90916086" ref="index"/>
+    <file name="u445-r.png" crc="3970802681" ref="index"/>
   </folder>
-  <file name="index.html" crc="4006347912" seo="true" mt="1437125923376" redirect="true"/>
+  <file name="index.html" crc="4221388009" seo="true" mt="1437127451357" redirect="true"/>
 </manifest>
