@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="chels.cf" resolutions="1x" timestamp="1437095320169">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="chels.cf" resolutions="1x" timestamp="1437095700585">
   <folder name="css">
     <file name="site_global.css" crc="3937859668"/>
-    <file name="index.css" crc="3813125151" ref="index"/>
+    <file name="index.css" crc="4108839877" ref="index"/>
     <file name="master_a-master.css" crc="4222716543" ref="index"/>
     <file name="iefonts_index.css" crc="300531001" ref="index"/>
   </folder>
@@ -27,5 +27,5 @@
     <file name="g4552.png" crc="3876686071" seo="true" ref="index"/>
     <file name="g5036.png" crc="179940689" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="36073538" seo="true" mt="1437095241610" redirect="true"/>
+  <file name="index.html" crc="36073538" seo="true" mt="1437095682736" redirect="true"/>
 </manifest>
