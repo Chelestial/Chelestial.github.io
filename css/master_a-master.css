@@ -34,10 +34,23 @@
 	position: relative;
 }
 
+#u445
+{
+	vertical-align: top;
+	position: relative;
+	background: url("../images/u445.png") no-repeat 5px 5px;
+}
+
+#u445:hover
+{
+	background: url("../images/u445-r.png") no-repeat 0px 0px;
+}
+
 #u163-6
 {
 	background-color: transparent;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;

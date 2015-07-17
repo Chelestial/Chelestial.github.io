@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="chels.cf" resolutions="1x" timestamp="1437095700585">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="chels.cf" resolutions="1x" timestamp="1437125986134">
   <folder name="css">
-    <file name="site_global.css" crc="3937859668"/>
-    <file name="index.css" crc="4108839877" ref="index"/>
-    <file name="master_a-master.css" crc="4222716543" ref="index"/>
-    <file name="iefonts_index.css" crc="300531001" ref="index"/>
+    <file name="site_global.css" crc="337544222"/>
+    <file name="index.css" crc="3946110162" ref="index"/>
+    <file name="master_a-master.css" crc="122052291" ref="index"/>
+    <file name="iefonts_index.css" crc="4237238382" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
@@ -16,16 +16,20 @@
     <file name="jquery.watch.js" crc="71412426" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="pesan.png" crc="4171555017" ref="index"/>
-    <file name="pesan-buka.png" crc="479763691" ref="index"/>
     <file name="favicon.ico" crc="3889955424" ref="index"/>
     <file name="home-u179.png" crc="3964571681" ref="index"/>
     <file name="menu.png" crc="3870153603" ref="index"/>
-    <file name="u251-4.png" crc="256933508" ref="index"/>
     <file name="comment.png" crc="4173472558" ref="index"/>
     <file name="g3415.png" crc="4081639609" seo="true" ref="index"/>
     <file name="g4552.png" crc="3876686071" seo="true" ref="index"/>
     <file name="g5036.png" crc="179940689" seo="true" ref="index"/>
+    <file name="message-big-1.png" crc="487617480" ref="index"/>
+    <file name="message-big-2.png" crc="4012071691" ref="index"/>
+    <file name="message-big-3.png" crc="363727211" ref="index"/>
+    <file name="closed-ketupat.png" crc="4186526012" ref="index"/>
+    <file name="open-ketupat.png" crc="133061761" ref="index"/>
+    <file name="u445.png" crc="321233440" ref="index"/>
+    <file name="u445-r.png" crc="47633941" ref="index"/>
   </folder>
-  <file name="index.html" crc="36073538" seo="true" mt="1437095682736" redirect="true"/>
+  <file name="index.html" crc="4006347912" seo="true" mt="1437125923376" redirect="true"/>
 </manifest>

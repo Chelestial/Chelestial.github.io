@@ -28,12 +28,22 @@
 	font-family: pt-sans-narrow-n7, sans-serif;
 }
 
+#pu401.PamphletThumbSelected #u419-4 p,#u419-4
+{
+	font-family: ubuntu-mono-n7, sans-serif;
+}
+
+#u360-4
+{
+	font-family: ubuntu-mono-n7, sans-serif;
+}
+
 #u343-4
 {
 	font-family: quicksand-n7, sans-serif;
 }
 
-#u318-4
+#u399-4,#u318-4
 {
 	font-family: ubuntu-mono-n4, sans-serif;
 }
