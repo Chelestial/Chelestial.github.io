@@ -1,143 +1,35 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="chels.cf" resolutions="1x" timestamp="1481362708229">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="chels.cf" resolutions="1x" timestamp="1437127565611">
   <folder name="css">
-    <file name="site_global.css" crc="268837990"/>
-    <file name="index.css" crc="366241629" ref="index"/>
-    <file name="nomq_index.css" crc="427203279" ref="index"/>
+    <file name="site_global.css" crc="3937859668"/>
+    <file name="index.css" crc="502696452" ref="index"/>
+    <file name="master_a-master.css" crc="3958344443" ref="index"/>
+    <file name="iefonts_index.css" crc="4056528847" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="163421577" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="168988563" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index"/>
-    <file name="webpro.js" crc="3848665353" ref="index"/>
-    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
-    <file name="touchswipe.js" crc="404375771" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
-    <file name="require.js" crc="244322403" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="3803554875" ref="index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="nav.png" crc="308098638" ref="index"/>
-    <file name="u8497-4.png" crc="26324333" ref="index"/>
-    <file name="u8669-4.png" crc="120501832" ref="index"/>
-    <file name="u8568-4.png" crc="392425187" ref="index"/>
-    <file name="u8607-4.png" crc="3832685146" ref="index"/>
-    <file name="u9145-4.png" crc="200024251" ref="index"/>
-    <file name="icon.png" crc="76981997" seo="true" ref="index"/>
-    <file name="u1055-4.png" crc="3950438009" ref="index"/>
-    <file name="u1053-4.png" crc="4013186906" ref="index"/>
-    <file name="u1054-4.png" crc="3950438009" ref="index"/>
-    <file name="u359-6.png" crc="192867573" ref="index"/>
-    <file name="laptop.png" crc="345973494" ref="index"/>
-    <file name="mobile-u12923-fr.png" crc="160388508" ref="index"/>
-    <file name="tablet-u12936-fr.png" crc="3860750387" ref="index"/>
-    <file name="u4410-4.png" crc="4291108886" ref="index"/>
-    <file name="u4607-4.png" crc="3782139773" ref="index"/>
-    <file name="u6197-6.png" crc="3801220420" ref="index"/>
-    <file name="github-u11622.png" crc="29957616" ref="index"/>
-    <file name="github-u11622-r.png" crc="201358247" ref="index"/>
-    <file name="github-u11622-m.png" crc="201358247" ref="index"/>
-    <file name="u690-4.png" crc="175620457" ref="index"/>
-    <file name="freenom-u11634.png" crc="403703119" ref="index"/>
-    <file name="freenom-u11634-r.png" crc="309061138" ref="index"/>
-    <file name="freenom-u11634-m.png" crc="309061138" ref="index"/>
-    <file name="u694-4.png" crc="24381399" ref="index"/>
-    <file name="namecheap-u11651.png" crc="210557987" ref="index"/>
-    <file name="namecheap-u11651-r.png" crc="135385964" ref="index"/>
-    <file name="namecheap-u11651-m.png" crc="135385964" ref="index"/>
-    <file name="u697-4.png" crc="4141892904" ref="index"/>
-    <file name="u6211-6.png" crc="89899633" ref="index"/>
-    <file name="pattern1-u18815-fr.png" crc="4135862172" ref="index"/>
-    <file name="wheat-grass-fin.jpg" crc="3824952122" seo="true" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="thistle-fin.jpg" crc="510986999" seo="true" ref="index"/>
-    <file name="bokeh-dunes.jpg" crc="3957807239" seo="true" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="u25148-15.png" crc="3870946552" ref="index"/>
-    <file name="u25747-4.png" crc="48257710" ref="index"/>
-    <file name="facebook.png" crc="130536591" ref="index"/>
-    <file name="facebook-.png" crc="3970893627" ref="index"/>
-    <file name="u35451-4.png" crc="3960143801" ref="index"/>
-    <file name="u35460-6.png" crc="535341640" ref="index"/>
-    <file name="u35469-5.png" crc="3788368959" ref="index"/>
-    <file name="u15087.png" crc="438638821" ref="index"/>
-    <file name="u15087-r.png" crc="4279533678" ref="index"/>
-    <file name="footer.png" crc="201716310" ref="index"/>
-    <file name="u22542-6.png" crc="4198226657" ref="index"/>
-    <file name="u8497-42.png" crc="26324333" ref="index"/>
-    <file name="u8669-42.png" crc="120501832" ref="index"/>
-    <file name="u8568-42.png" crc="392425187" ref="index"/>
-    <file name="u8607-42.png" crc="3832685146" ref="index"/>
-    <file name="u9145-42.png" crc="200024251" ref="index"/>
-    <file name="u1055-42.png" crc="307068279" ref="index"/>
-    <file name="u1053-42.png" crc="4013186906" ref="index"/>
-    <file name="u1054-42.png" crc="3950438009" ref="index"/>
-    <file name="u359-62.png" crc="273357675" ref="index"/>
-    <file name="mobile.png" crc="128333605" ref="index"/>
-    <file name="tablet.png" crc="99677117" ref="index"/>
-    <file name="u4410-42.png" crc="4230971302" ref="index"/>
-    <file name="u4607-42.png" crc="3860278277" ref="index"/>
-    <file name="u6197-62.png" crc="3864691500" ref="index"/>
-    <file name="u6211-62.png" crc="497788482" ref="index"/>
-    <file name="github-u116222.png" crc="29957616" ref="index"/>
-    <file name="github-u11622-r2.png" crc="201358247" ref="index"/>
-    <file name="github-u11622-m2.png" crc="201358247" ref="index"/>
-    <file name="u690-42.png" crc="4132613584" ref="index"/>
-    <file name="u694-42.png" crc="391267746" ref="index"/>
-    <file name="freenom-u116342.png" crc="73109853" ref="index"/>
-    <file name="freenom-u11634-r2.png" crc="245834630" ref="index"/>
-    <file name="freenom-u11634-m2.png" crc="245834630" ref="index"/>
-    <file name="u697-42.png" crc="3939891353" ref="index"/>
-    <file name="namecheap-u116512.png" crc="4187580144" ref="index"/>
-    <file name="namecheap-u11651-r2.png" crc="4208183630" ref="index"/>
-    <file name="namecheap-u11651-m2.png" crc="4208183630" ref="index"/>
-    <file name="u25148-152.png" crc="22662585" ref="index"/>
-    <file name="u25747-42.png" crc="104010954" ref="index"/>
-    <file name="u35451-42.png" crc="3799725078" ref="index"/>
-    <file name="u35460-62.png" crc="524199664" ref="index"/>
-    <file name="u35469-52.png" crc="3778920526" ref="index"/>
-    <file name="u150872.png" crc="380404099" ref="index"/>
-    <file name="u15087-r2.png" crc="353008895" ref="index"/>
-    <file name="u22542-62.png" crc="4162832708" ref="index"/>
-    <file name="u8497-43.png" crc="26324333" ref="index"/>
-    <file name="u8669-43.png" crc="120501832" ref="index"/>
-    <file name="u8568-43.png" crc="392425187" ref="index"/>
-    <file name="u8607-43.png" crc="3832685146" ref="index"/>
-    <file name="u9145-43.png" crc="200024251" ref="index"/>
-    <file name="u1055-43.png" crc="258873318" ref="index"/>
-    <file name="u1053-43.png" crc="186172084" ref="index"/>
-    <file name="u1054-43.png" crc="334341037" ref="index"/>
-    <file name="u359-63.png" crc="521320524" ref="index"/>
-    <file name="u4410-43.png" crc="526637983" ref="index"/>
-    <file name="u4607-43.png" crc="4184262668" ref="index"/>
-    <file name="laptop-u12902-fr.png" crc="4187324856" ref="index"/>
-    <file name="tablet-u12936-fr2.png" crc="194835598" ref="index"/>
-    <file name="u6197-63.png" crc="4214960091" ref="index"/>
-    <file name="u6211-63.png" crc="3849923782" ref="index"/>
-    <file name="github-u116223.png" crc="3821429715" ref="index"/>
-    <file name="github-u11622-r3.png" crc="311631127" ref="index"/>
-    <file name="github-u11622-m3.png" crc="311631127" ref="index"/>
-    <file name="u690-43.png" crc="4254519171" ref="index"/>
-    <file name="freenom-u116343.png" crc="3822866432" ref="index"/>
-    <file name="freenom-u11634-r3.png" crc="4019322550" ref="index"/>
-    <file name="freenom-u11634-m3.png" crc="4019322550" ref="index"/>
-    <file name="u694-43.png" crc="156188521" ref="index"/>
-    <file name="namecheap-u116513.png" crc="512797296" ref="index"/>
-    <file name="namecheap-u11651-r3.png" crc="469707010" ref="index"/>
-    <file name="namecheap-u11651-m3.png" crc="469707010" ref="index"/>
-    <file name="u697-43.png" crc="157985606" ref="index"/>
-    <file name="u25148-153.png" crc="98112490" ref="index"/>
-    <file name="u25747-43.png" crc="76220555" ref="index"/>
-    <file name="u35451-43.png" crc="133139126" ref="index"/>
-    <file name="u35460-63.png" crc="4154097943" ref="index"/>
-    <file name="u35469-53.png" crc="272078831" ref="index"/>
-    <file name="u150873.png" crc="31011370" ref="index"/>
-    <file name="u15087-r3.png" crc="3926403150" ref="index"/>
-    <file name="u22542-63.png" crc="4189127595" ref="index"/>
+    <file name="favicon.ico" crc="3889955424" ref="index"/>
+    <file name="home-u179.png" crc="3964571681" ref="index"/>
+    <file name="menu.png" crc="3870153603" ref="index"/>
+    <file name="comment.png" crc="4173472558" ref="index"/>
+    <file name="g3415.png" crc="4081639609" seo="true" ref="index"/>
+    <file name="g4552.png" crc="3876686071" seo="true" ref="index"/>
+    <file name="g5036.png" crc="179940689" seo="true" ref="index"/>
+    <file name="message-big-1.png" crc="487617480" ref="index"/>
+    <file name="message-big-2.png" crc="4012071691" ref="index"/>
+    <file name="message-big-3.png" crc="363727211" ref="index"/>
+    <file name="closed-ketupat.png" crc="4186526012" ref="index"/>
+    <file name="open-ketupat.png" crc="133061761" ref="index"/>
+    <file name="u445.png" crc="90916086" ref="index"/>
+    <file name="u445-r.png" crc="3970802681" ref="index"/>
   </folder>
-  <file name="index.html" crc="4230461302" seo="true" mt="1481362592337" redirect="true"/>
+  <file name="index.html" crc="4221388009" seo="true" mt="1437127451357" redirect="true"/>
 </manifest>

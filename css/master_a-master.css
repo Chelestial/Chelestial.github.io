@@ -1,0 +1,58 @@
+#u161-4
+{
+	background-color: transparent;
+	line-height: 29px;
+	font-size: 24px;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: droid-sans-mono, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	position: relative;
+}
+
+#u165-9,#u166-10,#u167-9
+{
+	background-color: transparent;
+	line-height: 19px;
+	color: #FFFFFF;
+	font-size: 16px;
+	font-family: ubuntu-mono, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u155-4,#u160-4,#u351-4
+{
+	background-color: transparent;
+	line-height: 29px;
+	color: #FFFFFF;
+	font-size: 24px;
+	text-align: center;
+	font-family: droid-sans-mono, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u445
+{
+	vertical-align: top;
+	position: relative;
+	background: url("../images/u445.png") no-repeat 5px 5px;
+}
+
+#u445:hover
+{
+	background: url("../images/u445-r.png") no-repeat 0px 0px;
+}
+
+#u163-6
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
